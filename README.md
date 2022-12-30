@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
+
   Hi there, am Kennedy 👋 
-</div>
+
 
  I am full stack developer from Nairobi, Kenya.
  - 🔭 I’m currently working on personal projects
