@@ -7,7 +7,7 @@
 </div>
 
  I am full stack developer from Nairobi, Kenya.
- - 🔭 I’m currently working on my personal projects
+ - 🔭 I’m currently working on personal projects
  - 🌱 I’m currently learning Docker.
  - 👯 I’m looking to collaborate on React projects
  - 🧰 some technologies I enjoy working with include ReactJs, Javascript, Django
