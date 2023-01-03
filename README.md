@@ -13,7 +13,6 @@
  - 🧰 some technologies I enjoy working with include ReactJs, Javascript, Django
  - 💬 Ask me about ReactJs, Tailwind, Javascript
  - 🤸‍♂️ In my spare time I like drawing, painting and stargazing 
- - [![GitHub Streak](https://streak-stats.demolab.com/?user=kennedybabu)](https://git.io/streak-stats)
 
 
 <!--
@@ -29,6 +28,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ - [![GitHub Streak](https://streak-stats.demolab.com/?user=kennedybabu)](https://git.io/streak-stats)
+
 -->
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennedybabu&theme=dark)](https://git.io/streak-stats)
